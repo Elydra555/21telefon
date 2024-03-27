@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Telok/1.0.0": {
+        "dependencies": {
+          "Telefonok": "1.0.0"
+        },
+        "runtime": {
+          "Telok.dll": {}
+        }
+      },
+      "Telefonok/1.0.0": {
+        "runtime": {
+          "Telefonok.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Telok/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telefonok/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
